@@ -1,0 +1,65 @@
+{
+    "stock_1": {
+        "scaler": "Robust",
+        "model": "XGBoost",
+        "n_estimators": 483,
+        "learning_rate": 0.024792562765741512,
+        "max_depth": 3,
+        "subsample": 0.5000501679694557
+    },
+    "stock_2": {
+        "scaler": "Robust",
+        "model": "XGBoost",
+        "n_estimators": 479,
+        "learning_rate": 0.052085900953825065,
+        "max_depth": 3,
+        "subsample": 0.531733333462402
+    },
+    "stock_3": {
+        "scaler": "Robust",
+        "model": "Lasso",
+        "alpha": 0.0010000280733277545
+    },
+    "stock_4": {
+        "scaler": "Robust",
+        "model": "XGBoost",
+        "n_estimators": 272,
+        "learning_rate": 0.021309642926293348,
+        "max_depth": 3,
+        "subsample": 0.6577871894991808
+    },
+    "stock_5": {
+        "scaler": "Robust",
+        "model": "LightGBM",
+        "n_estimators": 100,
+        "learning_rate": 0.01424988120025934,
+        "max_depth": 7,
+        "num_leaves": 89
+    },
+    "stock_6": {
+        "scaler": "Standard",
+        "model": "Lasso",
+        "alpha": 3.4702669886504163
+    },
+    "stock_7": {
+        "scaler": "Robust",
+        "model": "XGBoost",
+        "n_estimators": 389,
+        "learning_rate": 0.011474376663511263,
+        "max_depth": 3,
+        "subsample": 0.5434613753035263
+    },
+    "stock_8": {
+        "scaler": "Standard",
+        "model": "XGBoost",
+        "n_estimators": 100,
+        "learning_rate": 0.010032104920241508,
+        "max_depth": 3,
+        "subsample": 0.6348609730734699
+    },
+    "stock_9": {
+        "scaler": "Robust",
+        "model": "Lasso",
+        "alpha": 16.861849441242317
+    }
+}
